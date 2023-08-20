@@ -14,4 +14,6 @@ You need Unity Game Engine installed (please install from thier site if you don'
 
 The project is open source and you can change anything (code wise) and also expand upon it to your needs. You can also replace assets as wanted (this project has no IAP or Ad's setup).
 
+If you have any issues, bugs or suggestions don't hesitate please let us know.
+
 /> ConveyorX Games.
